@@ -1,6 +1,6 @@
 package com.mycollege.controller;
 
-import com.mycollege.repository.entity.Student;
+//import com.mycollege.repository.entity.Student;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 public class StudentGetController {
 
-    public ResponseEntity<Student>z
+//    public ResponseEntity<Student>z
 
 }

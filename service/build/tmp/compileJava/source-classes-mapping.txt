@@ -1,0 +1,8 @@
+com/mycollege/controller/StudentController.java
+ com.mycollege.controller.StudentController
+com/mycollege/StudentGetController.java
+ com.mycollege.StudentGetController
+com/mycollege/internal/StudentController.java
+ com.mycollege.internal.StudentController
+com/mycollege/MyCollegeApplication.java
+ com.mycollege.MyCollegeApplication
