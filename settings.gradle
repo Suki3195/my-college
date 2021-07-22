@@ -1,0 +1,6 @@
+rootProject.name = 'my-college'
+include 'service'
+include 'domain'
+include 'domain-service'
+include 'repository'
+

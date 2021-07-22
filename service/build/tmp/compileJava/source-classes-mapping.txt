@@ -1,0 +1,12 @@
+com/mycollege/service/controller/TeacherGetController.java
+ com.mycollege.service.controller.TeacherGetController
+com/mycollege/service/MyCollegeApplication.java
+ com.mycollege.service.MyCollegeApplication
+com/mycollege/service/controller/advice/MyCollegeAdvice.java
+ com.mycollege.service.controller.advice.MyCollegeAdvice
+com/mycollege/service/controller/internal/TeacherController.java
+ com.mycollege.service.controller.internal.TeacherController
+com/mycollege/service/controller/StudentGetController.java
+ com.mycollege.service.controller.StudentGetController
+com/mycollege/service/controller/internal/CourseController.java
+ com.mycollege.service.controller.internal.CourseController

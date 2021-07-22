@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    driverClassName : com.mysql.jdbc.Driver
+    url : jdbc:mysql://localhost:3306/my_college
+    port : 3306
+    username : root
+    password: Mahadev@2326
+
+  flyway:
+    #  enabled : false
+    locations: classpath:db/migration
+    url: jdbc:mysql://localhost:3306/my_college
+    schemas: my_college
+    username: root
+    password: root
+    baseline-on-migrate: true
+
+server :
+  servlet :
+    context-path: /my-college
+    port : 8080
+
+
+
+
+
